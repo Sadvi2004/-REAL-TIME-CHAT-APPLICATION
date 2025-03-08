@@ -1,0 +1,19 @@
+#  REAL-TIME CHATAPPLICATION
+
+company:codeTech IT solutuons
+
+name: sadvi bayyavarapu
+
+intern ID:CT08TAG
+
+Domain:React.js web development
+
+duration:4-weeks
+
+mentor:neela santosh
+
+description:
+I developed a Real-Time Chat Application using React.js and Socket.IO. This application enables seamless communication between users, supporting group chats and real-time typing indicators to enhance the chat experience.
+Instantly send and receive messages using Socket.IO for real-time updates.Users can participate in group conversations with multiple participants.
+
+output:
